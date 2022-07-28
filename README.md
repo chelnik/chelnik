@@ -8,8 +8,8 @@ build using make
 
 | Name | Description | Tools |
 | --- | --- | --- |
-| [libft(improved version)](https://github.com/chelnik/3DViewer)| 	Standart libary of C and QT | implementation of a program for using 3d models from files with the .obj extension
-| [netwhat](https://github.com/chelnik/smartCalc) | Polish notation and Dijkstra's algorithm | Сalculator with graphical interface
+| [3DViewer](https://github.com/chelnik/3DViewer)| 	Standart libary of C and QT | implementation of a program for using 3d models from files with the .obj extension
+| [SmartCalc](https://github.com/chelnik/smartCalc) | Polish notation and Dijkstra's algorithm | Сalculator with graphical interface
 <!-- | [NetPractice](https://github.com/ifanzilka/NetPractice) | Configuring Routers | -->
 
 
