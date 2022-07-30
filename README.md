@@ -3,8 +3,8 @@
 
 
 
-my projects are in the src folder 
-build using make
+### my projects are in the src folder 
+### build using make or make test
 
 | Name | Description | Tools |
 | --- | --- | --- |
