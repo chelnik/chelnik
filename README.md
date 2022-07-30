@@ -10,6 +10,8 @@ build using make
 | --- | --- | --- |
 | [3DViewer](https://github.com/chelnik/3DViewer)| 	Standart libary of C and QT | implementation of a program for using 3d models from files with the .obj extension
 | [SmartCalc](https://github.com/chelnik/smartCalc) | Polish notation and Dijkstra's algorithm | Сalculator with graphical interface
+| [Matrix_oop](https://github.com/chelnik/matrix_oop) | the library written according to the principles of oop with operations on matrices | Library 
+
 <!-- | [NetPractice](https://github.com/ifanzilka/NetPractice) | Configuring Routers | -->
 
 
