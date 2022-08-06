@@ -16,3 +16,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelnik)](https://github.com/anuraghazra/github-readme-stats)
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelnik&show_icons=true&theme=radical)
